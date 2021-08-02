@@ -1,0 +1,10 @@
+LICENSE
+README.md
+pyproject.toml
+setup.py
+src/miinfra_asg1612.egg-info/PKG-INFO
+src/miinfra_asg1612.egg-info/SOURCES.txt
+src/miinfra_asg1612.egg-info/dependency_links.txt
+src/miinfra_asg1612.egg-info/top_level.txt
+src/miproxmox/__init__.py
+src/miproxmox/connect.py
